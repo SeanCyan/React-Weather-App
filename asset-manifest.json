@@ -1,7 +1,7 @@
 {
   "main.css": "/reactjs-weather-app/static/css/main.f5f74fb2.chunk.css",
-  "main.js": "/reactjs-weather-app/static/js/main.bfbac5ad.chunk.js",
-  "main.js.map": "/reactjs-weather-app/static/js/main.bfbac5ad.chunk.js.map",
+  "main.js": "/reactjs-weather-app/static/js/main.180feafb.chunk.js",
+  "main.js.map": "/reactjs-weather-app/static/js/main.180feafb.chunk.js.map",
   "static/js/1.f739feb7.chunk.js": "/reactjs-weather-app/static/js/1.f739feb7.chunk.js",
   "static/js/1.f739feb7.chunk.js.map": "/reactjs-weather-app/static/js/1.f739feb7.chunk.js.map",
   "runtime~main.js": "/reactjs-weather-app/static/js/runtime~main.fa1706eb.js",
@@ -10,6 +10,6 @@
   "static/media/index.css": "/reactjs-weather-app/static/media/Raleway-Regular.580d0778.ttf",
   "static/media/panel.css": "/reactjs-weather-app/static/media/clouds.31ededdd.jpg",
   "index.html": "/reactjs-weather-app/index.html",
-  "precache-manifest.2b11ada8061e7d7e4322586178e2f339.js": "/reactjs-weather-app/precache-manifest.2b11ada8061e7d7e4322586178e2f339.js",
+  "precache-manifest.898420f6cc4c179738f5b4285cce5469.js": "/reactjs-weather-app/precache-manifest.898420f6cc4c179738f5b4285cce5469.js",
   "service-worker.js": "/reactjs-weather-app/service-worker.js"
 }
